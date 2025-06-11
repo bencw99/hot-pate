@@ -1,0 +1,11 @@
+tqdm
+numpy
+matplotlib
+ipywidgets
+torch
+torchtyping
+transformers
+datasets
+accelerate
+flash-attn
+jupyterlab
