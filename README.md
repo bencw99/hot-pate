@@ -68,7 +68,7 @@ print(tokenizer.decode(generated_tokens))
 
 ```bibtex
 @article{cohen2023hot,
-    title={Hot pate: Private aggregation of distributions for diverse task},
+    title={Hot PATE: Private Aggregation of Distributions for Diverse Task},
     author={Cohen, Edith and Cohen-Wang, Benjamin and Lyu, Xin and Nelson, Jelani and Sarlos, Tamas and Stemmer, Uri},
     journal={arXiv preprint arXiv:2312.02132},
     year={2023}
