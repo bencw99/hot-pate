@@ -4,9 +4,6 @@ from torchtyping import TensorType as TT
 
 
 class Aggregator(ABC):
-    def __init__(self, threshold: int):
-        self.threshold = threshold
-
     @abstractmethod
     def aggregate(
         self,
